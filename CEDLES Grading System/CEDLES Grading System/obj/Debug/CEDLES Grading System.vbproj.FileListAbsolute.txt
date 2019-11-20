@@ -1,0 +1,16 @@
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.vbprojAssemblyReference.cache
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.FrmGrades.resources
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.FrmHome.resources
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.FrmLogin.resources
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.FrmReports.resources
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.Resources.resources
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.vbproj.GenerateResource.cache
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.vbproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\bin\Debug\CEDLES Grading System.exe.config
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\bin\Debug\CEDLES Grading System.exe
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\bin\Debug\CEDLES Grading System.pdb
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\bin\Debug\CEDLES Grading System.xml
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.exe
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.xml
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES Grading System.pdb
+C:\Users\TAN\source\repos\CEDLES Grading System\CEDLES Grading System\obj\Debug\CEDLES_Grading_System.FrmExamManagement.resources
